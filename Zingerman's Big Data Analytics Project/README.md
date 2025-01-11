@@ -1,0 +1,2 @@
+This Zingerman's Mail Order project involved communicating with the e-commerce company and analyzing over 10 years of normalized sales data with 49 features and millions of records. 
+Analysis for the company included forecasting the magnitude and duration of the seasonal peak for 2024; comparing consumer purchasing likelihood among products; and identifing 10 customer lifestyle segments to help flatten Zingerman’s severe annual spike in sales.
